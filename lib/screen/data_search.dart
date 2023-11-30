@@ -7,7 +7,7 @@ class DataSearch extends SearchDelegate<String> {
     'Dart',
     'Widget',
     'Desarrollo móvil',
-    'OpenAI',
+    'Argis',
     // ... tus otros elementos de búsqueda
   ];
 
