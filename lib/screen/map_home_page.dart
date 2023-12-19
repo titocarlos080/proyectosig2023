@@ -39,8 +39,10 @@ class MapHome extends StatelessWidget {
               Shop(name: 'Tienda 6'),
             ],
           ),
-        ],
+
+         ],
       ),
     );
   }
-}
+} 
+ 
